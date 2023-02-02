@@ -1,0 +1,13 @@
+body {
+  width: 500px;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+span {
+  text-decoration-line: underline;
+  color: blue;
+}
